@@ -26,4 +26,5 @@
     <string name="tittleimagedetail">\"Todo copas en la playa\"</string>
     <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sapien odio, interdum sed aliquet in, commodo eu nunc. Sed porta commodo magna, nec consectetur metus porttitor et. Aliquam faucibus elit a molestie tincidunt. Donec vulputate hendrerit rhoncus. Morbi ullamcorper erat efficitur, pretium elit in, porta ipsum. Pellentesque in volutpat nulla. Etiam eu urna neque. Quisque eget turpis sed mi bibendum mattis. Sed vulputate orci a tortor faucibus, ultrices iaculis ipsum viverra. Mauris nunc nulla, pulvinar non finibus eget, aliquet a ligula. Vestibulum molestie auctor condimentum. Quisque vel justo tellus.</string>
     <string name="transitionname_picture">transitionnamepicture</string>
+    <string name="queryhint_search">Buscar fotos ...</string>
 </resources>
