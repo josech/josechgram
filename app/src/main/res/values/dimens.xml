@@ -26,15 +26,15 @@
     <dimen name="dimen_circleimageprofile">160dp</dimen>
     <dimen name="margintop_circleimageprofile">30dp</dimen>
     <dimen name="elevation_circleimageprofile">10dp</dimen>
-    <dimen name="limitY_circleimage">-206dp</dimen>
-    <dimen name="margintoptoolbar_circleimageprofile">-3dp</dimen>
+    <dimen name="limitY_circleimage">-146dp</dimen>
+    <dimen name="margintoptoolbar_circleimageprofile">5dp</dimen>
     <dimen name="width_circleimagetoolbar">40dp</dimen>
     <dimen name="height_circleimagetoolbar">40dp</dimen>
     <dimen name="textsize_usernametoolbarprofile">18dp</dimen>
-    <dimen name="marginleft_usernametoolbarprofile">75dp</dimen>
-    <dimen name="margintop_usernametoolbarprofile">-100dp</dimen>
-    <dimen name="limitY_usernametoolbarprofile">-260dp</dimen>
-    <dimen name="margintoptargety_usernametoolbarprofile">70dp</dimen>
-    <dimen name="marginlefttoolbar_circleimageprofile">3dp</dimen>
+    <dimen name="marginleft_usernametoolbarprofile">70dp</dimen>
+    <dimen name="margintop_usernametoolbarprofile">-150dp</dimen>
+    <dimen name="limitY_usernametoolbarprofile">-170dp</dimen>
+    <dimen name="margintoptargety_usernametoolbarprofile">11dp</dimen>
+    <dimen name="marginlefttoolbar_circleimageprofile">10dp</dimen>
     <dimen name="padding_horizontal_searchrecycler">4dp</dimen>
 </resources>
